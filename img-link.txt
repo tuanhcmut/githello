@@ -1,0 +1,52 @@
+
+https://ifactory.com.vn/machine-learning-la-gi-ung-dung-cua-no-trong-doanh-nghiep-san-xuat/   			ML
+https://www.iconfinder.com/icons/4375050/logo_python_icon		                                	python
+https://helpex.vn/article/top-8-khung-hoc-tap-sau-5c6641b9ae03f60128765534		      			TensorFlow
+https://en.wikipedia.org/wiki/Scikit-learn                                                   			scikit-learn
+https://codelearn.io/sharing/tim-hieu-thu-vien-numpy-trong-python			      			numby
+https://www.kindpng.com/imgv/TihJToo_python-pandas-logo-transparent-hd-png-download/	      			pandas
+https://seaborn.pydata.org/								      			seaborn
+https://blogs.bath.ac.uk/iprblog/2018/01/16/tomorrow-comes-today-how-policymakers-should-approach-ai/  		AI
+https://topdev.vn/blog/big-data/										bigdata
+https://www.analyticsinsight.net/how-artificial-intelligence-is-reforming-the-manufacturing-industry/		Ml in cong nghiep
+https://aliz.ai/machine-learning-in-digital-marketing-apply-ml-for-marketing-like-a-pro/			Ml in marketing
+https://www.slideshare.net/scoopnewsgroup/digital-innovation-trends-in-government-blockchain-machine-learning-and-internet-of-things	ML in goverment
+https://data-flair.training/blogs/machine-learning-in-healthcare/						ML in healthcare
+https://blog.skyl.ai/how-machine-learning-can-help-rate-credit-risk/						Ml in banking
+https://variety.com/2020/digital/news/netflix-shuffle-play-button-tv-devices-random-1234739192/			netflix
+https://www.spotify.com/vn-vi/											spotify
+https://www.pinterest.com/pin/703828247987123758/								mem yasuo
+https://twitter.com/invenglobal/status/1196229011958972416							mem ekko
+https://jhin-the-perfectionist.tumblr.com/post/171663806202/chibi-classic-jhin-done-hope-i			mem jhin
+https://wallpapersafari.com/league-of-legends-chibi-wallpaper/							mem thess
+https://sergilehkyi.com/image-segmentation-with-python/
+https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/			image segmentation
+https://www.appliedmaterials.com/nanochip/nanochip-fab-solutions/july-2020/enhanced-fault-detection-comes-to-semiconductor-assembly-test-and-packaging		Fautl Detection
+
+
+
+LINK CONTENT:
+I. PYTHON
+	1.http://net-informations.com/python/iq/disadvantages.htm
+	2.https://www.geeksforgeeks.org/disadvantages-of-python/
+	3.https://vi.m.wikipedia.org/wiki/Python_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)?fbclid=IwAR3T9-YMh0zYhwn3lmpNiPCuayRLcvDY1eFlR5ax23Dze4lpPIM6VG3gq-A
+	4.http://visualcpp.net/so-sanh-su-khac-biet-giua-ngon-ngu-lap-trinh-c-va-python/?fbclid=IwAR2jEl-I2M7AKWVraTNEB0bO12eJZMWXyneF6JAuT8uFLmemT5254iXuHSY
+	
+II.MACHINE LEARNING
+	1.https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_m%C3%A1y
+	2.https://khanh-personal.gitbook.io/ml-book-vn/machine-learning-la-gi
+	3.https://www.expert.ai/blog/machine-learning-definition/
+III.Python va ML
+	1.https://niithanoi.edu.vn/tai-sao-lai-su-dung-python-cho-ai-va-machine-learning.html
+	2.https://tecktrending.com/tai-sao-python-la-phu-hop-nhat-voi-machine-learning/
+
+IV. EXAMPLE
+	1.https://realpython.com/world-class-companies-using-python/#:~:text=a%20huge%20plus.-,Netflix,the%20number%20of%20Python%20applications.(machine learning in netflix)
+	2.https://www.javatpoint.com/applications-of-machine-learning (ngành nào ứng dụng machine learning)
+	3.https://en.wikipedia.org/wiki/Virtual_assistant (trợ lý ảo)
+	4.https://towardsdatascience.com/building-a-face-recognizer-in-python-7fd6630c6340 (nhận diện khuôn mặt)
+	5.https://data-flair.training/blogs/image-segmentation-machine-learning/ (image segmentation)
+	
+
+	
+	
